@@ -1,4 +1,4 @@
-# This is a workflow to do parellel job with Actions
+# This is a workflow to do parelleljob with Actions
 name: CI
  
 # Controls when the workflow will run
